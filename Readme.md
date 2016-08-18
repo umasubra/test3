@@ -1,4 +1,5 @@
-# Project Title
+
+# Test3
 
 One Paragraph of project description goes here
 
@@ -10,11 +11,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 You'll need:
 
-* [Visual Studio 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs.aspx)
-* [Office Developer Tools for Visual Studio](https://www.visualstudio.com/en-us/features/office-tools-vs.aspx)
-* Excel 2016, version 6769.2011 or later
-* Node.js
-
+*   [Visual Studio 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs.aspx)
+*   [Office Developer Tools for Visual Studio](https://www.visualstudio.com/en-us/features/office-tools-vs.aspx)
+*   Excel 2016, version 6769.2011 or later
+*   Node.js
 
 ### Installing
 
@@ -60,9 +60,9 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* Dropwizard - Bla bla bla
-* Maven - Maybe
-* Atom - ergaerga
+*   Dropwizard - Bla bla bla
+*   Maven - Maybe
+*   Atom - ergaerga
 
 ## Contributing
 
@@ -70,11 +70,11 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+*   **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
@@ -84,13 +84,14 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
+*   Hat tip to anyone who's code was used
+*   Inspiration
+*   etc
 
 ## Additional resources
 
-* [Office Dev Center](http://dev.office.com/)
+*   [Office Dev Center](http://dev.office.com/)
 
 ## Copyright
+
 Copyright (c) 2016 Microsoft. All rights reserved.
