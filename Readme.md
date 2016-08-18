@@ -5,180 +5,95 @@ One Paragraph of project description goes here
 
 [![Title: images/image1471556315801.Jpeg](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471556315801.Jpeg)](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471556315801.Jpeg)
 
-## Getting Started[![Title: images/Machine generated alternative text:
-Clustered Column Chart 
-Gridlines 
+[![Title: images/Machine generated alternative text:
+Chart title 
+Line Chart 
 SYSTEM GENERATED TITLE HERE 
-Axis Label _ 
-2010 
-X-Axß label 
-2011 
 Label One 
 Label Two 
-Label Three 
-Label Five 
-I Label SIX 
-Label Seven 
-Label Eight 
-Label Nine 
-Data plot  - Description: Machine generated alternative text:
-Clustered Column Chart 
-Gridlines 
-SYSTEM GENERATED TITLE HERE 
-Axis Label _ 
+Axis Label 40 
 2010 
-X-Axß label 
-2011 
+Legend Label 
+Legend Marker 
+Label Five 
+Label Three 
+12m 
+3,254 
+Label Four 
+2012 
+2013 
+Data Label 
+Axis  - Description: Machine generated alternative text:
+Chart title 
+Line Chart 
+SYSTEM GENERATED TITLE HERE 
 Label One 
 Label Two 
-Label Three 
-Label Five 
-I Label SIX 
-Label Seven 
-Label Eight 
-Label Nine 
-Data plot ](https://raw.githubusercontent.com/umasubra/test3/master/images/Machine generated alternative text:
-Clustered Column Chart 
-Gridlines 
-SYSTEM GENERATED TITLE HERE 
-Axis Label _ 
+Axis Label 40 
 2010 
-X-Axß label 
-2011 
+Legend Label 
+Legend Marker 
+Label Five 
+Label Three 
+12m 
+3,254 
+Label Four 
+2012 
+2013 
+Data Label 
+Axis ](https://raw.githubusercontent.com/umasubra/test3/master/images/Machine generated alternative text:
+Chart title 
+Line Chart 
+SYSTEM GENERATED TITLE HERE 
 Label One 
 Label Two 
-Label Three 
-Label Five 
-I Label SIX 
-Label Seven 
-Label Eight 
-Label Nine 
-Data plot  - Description: Machine generated alternative text:
-Clustered Column Chart 
-Gridlines 
-SYSTEM GENERATED TITLE HERE 
-Axis Label _ 
+Axis Label 40 
 2010 
-X-Axß label 
-2011 
+Legend Label 
+Legend Marker 
+Label Five 
+Label Three 
+12m 
+3,254 
+Label Four 
+2012 
+2013 
+Data Label 
+Axis  - Description: Machine generated alternative text:
+Chart title 
+Line Chart 
+SYSTEM GENERATED TITLE HERE 
 Label One 
 Label Two 
-Label Three 
-Label Five 
-I Label SIX 
-Label Seven 
-Label Eight 
-Label Nine 
-Data plot )](https://raw.githubusercontent.com/umasubra/test3/master/images/Machine%20generated%20alternative%20text:#Clustered Column Chart 
-Gridlines 
-SYSTEM GENERATED TITLE HERE 
-Axis Label _ 
+Axis Label 40 
 2010 
-X-Axß label 
-2011 
+Legend Label 
+Legend Marker 
+Label Five 
+Label Three 
+12m 
+3,254 
+Label Four 
+2012 
+2013 
+Data Label 
+Axis )](https://raw.githubusercontent.com/umasubra/test3/master/images/Machine%20generated%20alternative%20text:#Chart title 
+Line Chart 
+SYSTEM GENERATED TITLE HERE 
 Label One 
 Label Two 
-Label Three 
+Axis Label 40 
+2010 
+Legend Label 
+Legend Marker 
 Label Five 
-I Label SIX 
-Label Seven 
-Label Eight 
-Label Nine 
-Data plot )
+Label Three 
+12m 
+3,254 
+Label Four 
+2012 
+2013 
+Data Label 
+Axis )
 
-## These instructions will get you
-
-a copy of the project up and running on your local machine for development and testing purposes.
-
-See deployment for notes on how to deploy the project on a live system.
-
-[![Title: images/image1471557804065.Jpeg](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471557804065.Jpeg)](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471557804065.Jpeg)
-
-### Prerequisites
-
-You'll need:
-
-*   [Visual Studio 2015](https://www.visualstudio.com/downloads/download-visual-studio-vs.aspx)
-*   [Office Developer Tools for Visual Studio](https://www.visualstudio.com/en-us/features/office-tools-vs.aspx)
-*   Excel 2016, version 6769.2011 or later
-*   Node.js
-
-### Installing
-
-A step by step series of examples that tell you have to get a development env running
-
-Stay what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-*   Dropwizard - Bla bla bla
-*   Maven - Maybe
-*   Atom - ergaerga
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-*   **Billie Thompson** - _Initial work_ - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-*   Hat tip to anyone who's code was used
-*   Inspiration
-*   etc
-
-## Additional resources
-
-*   [Office Dev Center](http://dev.office.com/)
-
-## Copyright
-
-Copyright (c) 2016 Microsoft. All rights reserved.
+[![Title: images/image1471559144919.Jpeg](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471559144919.Jpeg)](https://raw.githubusercontent.com/umasubra/test3/master/images/image1471559144919.Jpeg)
