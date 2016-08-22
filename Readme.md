@@ -3,4 +3,4 @@ Uma
 
 |  |
 | --- |
-|  | ![](~WRS%7bF4818A7F-8C2C-46BA-9F02-943CE8C8B0B2%7d_files/image001.png) |
+|  | ![](~WRS%7b1FB428D2-03C9-4634-A99F-3DABF5CA35B4%7d_files/image001.png) |
