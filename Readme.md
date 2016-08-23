@@ -1,11 +1,4 @@
 
 Uma
 
-|   |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- |
-|  | ![](~WRS%7b7C223A2B-E9D1-4316-9968-56444ED55613%7d_files/image001.png) |
-|  |
-|  |  | ![](~WRS%7b7C223A2B-E9D1-4316-9968-56444ED55613%7d_files/image002.png) |
-|  |
-|  |  | ![](~WRS%7b7C223A2B-E9D1-4316-9968-56444ED55613%7d_files/image003.png) |
-
+Daniel is here
