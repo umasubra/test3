@@ -2,13 +2,13 @@
 
 The Stack Dash add-in demonstrates how you can use the JavaScript API for Microsoft Excel 2016 to create a compelling Excel add-in. With Stack Dash, you can connect to the Stack Exchange Network and import a lot of rich tag-related information into your workbook, create dashboard and trackers, view and analyze trends, and track answered and unanswered questions, and top askers and answerers. The following figures show the main screens of this add-in. The content provided by this add-in is powered by the Stack Exchange Network.
 
-[![Title: images/Image1493101740205.undefined](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
+[![Title: images/Image1493101740205.undefined](~WRS%7b5EA34226-20F8-420B-97D4-179E47D6A4B1%7d_files/image001.png)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
 
-[![Title: images/Image1493101740205.undefined](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
+[![Title: images/Image1493101740205.undefined](~WRS%7b5EA34226-20F8-420B-97D4-179E47D6A4B1%7d_files/image002.png)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
 
-[![Title: images/Image1493101740205.undefined](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
+[![Title: images/Image1493101740205.undefined](~WRS%7b5EA34226-20F8-420B-97D4-179E47D6A4B1%7d_files/image003.png)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
 
-[![Title: images/Image1493101740205.undefined](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
+[![Title: images/Image1493101740205.undefined](~WRS%7b5EA34226-20F8-420B-97D4-179E47D6A4B1%7d_files/image004.png)](https://raw.githubusercontent.com/umasubra/test3/master/images/Image1493101740205.undefined)
 
 ## Table of Contents
 
